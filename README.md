@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=hakyunglee&fontColor=ababab)
+![header](https://capsule-render.vercel.app/api?type=waving&text=hakyunglee&fontColor=878686)
 
 
 <!--
