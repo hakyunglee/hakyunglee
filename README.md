@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**hakyunglee/hakyunglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ![ooii github stats](https://github-readme-stats.vercel.app/api?username=hakyunglee&show_icons=true&theme=prussian)
+
+<!--
+**hakyunglee/hakyunglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
