@@ -6,7 +6,7 @@
 <!--
 **hakyunglee/hakyunglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![ooii github stats](https://github-readme-stats.vercel.app/api?%20username=hakyunglee&show_icons=true&theme=prussian%20)
+![ooii github stats](https://github-readme-stats.vercel.app/api?%20username=hakyunglee&show_icons=true&theme=prussian%20&text=%20asdf%20)
 
 Here are some ideas to get you started:
 
