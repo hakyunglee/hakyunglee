@@ -6,6 +6,8 @@
 ## ✨ ABOUT ME ✨
 - 👩🏻‍💻 Front-End Developer
 
+https://aszx601.tistory.com/
+
 
 ## ⚒ SKILLS ⚒
 <div style="display: inline;">
