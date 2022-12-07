@@ -5,8 +5,8 @@
 
 ## ✨ ABOUT ME ✨
 - 👩🏻‍💻 Front-End Developer
+- https://aszx601.tistory.com/
 
-https://aszx601.tistory.com/
 
 
 ## ⚒ SKILLS ⚒
